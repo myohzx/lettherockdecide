@@ -1,0 +1,40 @@
+/*CSS STATUS: DAY*/
+body {
+  background: linear-gradient(#2686c1, #5ab6e6, #ffffff);
+}
+
+.cloudsArea { /*retirar daqui as imagens e colocar no html uma div para cada nuvem*/
+  /*background-image: url("images/cloud.png");
+  background-repeat: no-repeat;
+  background-position: left top;*/
+  padding-top: 0%;
+  margin-bottom: 20%;
+  height: 50%;
+  border: 1px solid red;
+  margin: 0;
+  /*transform: scale(0.7);*/
+  margin:0;
+}
+
+.cloudsArea1 {
+  height: 10%;
+  width: 50%;
+  top: 10%;
+  left: 0px;
+  float: left;
+  /*background-size:contain;*/
+  border: 1px solid green;
+  overflow:hidden;
+}
+
+.cloudsArea2 {
+  height: 10%;
+  width: 50%;
+  top: 10%;
+  left: 0px;
+  float: left;
+  /*background-size:contain;*/
+
+  border: 1px solid yellow;
+  overflow:hidden;
+}

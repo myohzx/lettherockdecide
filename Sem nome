@@ -1,0 +1,17 @@
+<DOCTYPE! html>
+
+<html>
+
+  <head>
+
+    <script> function ola(){
+      var soma = 1+2;
+      document.getElementById("menssage").innerHTML = varInput2;
+    }</script>
+  </head>
+
+  <body>
+    <p id="message"><p>
+  </body>
+
+</html>
